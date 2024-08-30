@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer and Developer from US</h3>
 
-- 🔭 I’m currently working on **Automation**
+- 🔭 I’m currently working on **Automation and side projects**
 
 - 🌱 I’m currently learning **API's, Automation, GitHub**
 
